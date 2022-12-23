@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+.container{
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 20px 30px;
+}
+.nav_text1{
+  color: rgb(170, 32, 32);
+}
+.log_in1{
+  color: red;
+}
+.btn_submit{
+  color: red;
+}
